@@ -1,0 +1,29 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 80px;
+    padding-top: 14px;
+    align-items: center;
+}
+.functions{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.heading button{
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.btn{
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgba(87, 19, 159, 0.954);
+}
+
